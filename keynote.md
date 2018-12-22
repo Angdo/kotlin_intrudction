@@ -5,7 +5,6 @@ class: center, middle, inverse
 #用Kotlin开发Android
 [Kotlin介绍]
 
-.footnote[[林进森](http://www.kescoode.com) 2015年8月8日]
 ---
 layout: false
 
